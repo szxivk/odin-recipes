@@ -15,6 +15,10 @@ h2 {
     color: #4D2D18;
 }
 
+p {
+    text-align: justify;
+}
+
 .index-image {
     width: 100%;
     margin: 0 auto;
@@ -49,3 +53,19 @@ a:hover {
     color: #007bff;
     text-decoration: underline;
 }
+
+.recipe-image {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+
+.recipe-image #popcorn-ck img {
+    position: relative;
+    top: -75px;
+    left: 0;
+
+}
+
