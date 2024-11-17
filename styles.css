@@ -66,6 +66,8 @@ a:hover {
     position: relative;
     top: -75px;
     left: 0;
+    width: 90%;
+    height: auto;
 
 }
 
